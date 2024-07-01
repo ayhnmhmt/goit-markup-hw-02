@@ -1,6 +1,7 @@
 body {
-  font-family: "roboto" sans-serif;
-  color: #2e2f42;
+  font-family: "roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 .header {
   background-color: #FFFFFFC;
@@ -13,6 +14,13 @@ body {
   gap: 0px;
   opacity: 0px;
   word-spacing: -50px;
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .blue {
   font-family: "Raleway";
