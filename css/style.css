@@ -48,6 +48,9 @@ body {
 .contact-link:hover {
   color: #404bbf;
 }
+.contact-link:focus {
+  color: #404bbf;
+}
 .nav-logo:hover {
   color: #404bbf;
 }
