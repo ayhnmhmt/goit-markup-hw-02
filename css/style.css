@@ -29,10 +29,10 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
-.nav-link :hover {
+.nav-link:hover {
   background-color: #404bbf;
 }
-.nav-link :focus {
+.nav-link:focus {
   background-color: #404bbf;
 }
 .contact-link {
